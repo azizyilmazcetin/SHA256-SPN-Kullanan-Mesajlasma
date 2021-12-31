@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x4ceuspMqi7iAU6QZ33HIA41O1ZonteTh9ImnHniIWQUjT3tzKIjlTvfTTK5uSqF+/jkd+ACjY9VvApDPSac8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MONSTER\\source\\repos\\chat\\chat\\chat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MONSTER\\.nuget\\packages\\supersimpletcp\\2.4.1.2\\supersimpletcp.2.4.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
